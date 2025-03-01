@@ -11,7 +11,7 @@ npm run dev
 ```
 ![image](https://github.com/user-attachments/assets/1b428f04-42eb-4689-8a8f-49039e5abc7a)
 
-[![Video Thumbnail]([https://youtu.be/8tvVDT-dom4](https://github.com/user-attachments/assets/1b428f04-42eb-4689-8a8f-49039e5abc7a))](https://youtu.be/8tvVDT-dom4)
+[![Video]([https://youtu.be/8tvVDT-dom4](https://github.com/user-attachments/assets/1b428f04-42eb-4689-8a8f-49039e5abc7a))](https://youtu.be/8tvVDT-dom4)
 
 
 
