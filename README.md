@@ -11,7 +11,8 @@ npm run dev
 ```
 ![image](https://github.com/user-attachments/assets/1b428f04-42eb-4689-8a8f-49039e5abc7a)
 
-<iframe width="560" height="315" src="https://youtu.be/8tvVDT-dom4" frameborder="0" allowfullscreen></iframe>
+[![Video Thumbnail]([https://youtu.be/8tvVDT-dom4](https://github.com/user-attachments/assets/1b428f04-42eb-4689-8a8f-49039e5abc7a))](https://youtu.be/8tvVDT-dom4)
+
 
 
 # To deploy and use on your own profile as owner
